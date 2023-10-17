@@ -8,3 +8,7 @@ git pull
 how do you make a new line?
 
 coopers asking dumb questions again
+
+jp is mean to me 
+
+chinchlord
