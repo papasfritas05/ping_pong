@@ -1,3 +1,5 @@
 # ping_pong
 
-jp ping
+git add .
+git commit -m "ping"
+git push   
