@@ -34,10 +34,6 @@ your dad jp
 
 abcd
 
-<<<<<<< HEAD
+
 
 cooper sucks
-=======
-funny business
-dosvhnisfisugvhbidujk
->>>>>>> 9ea2e95939edd795158841c02abcd776bc06ca8d
